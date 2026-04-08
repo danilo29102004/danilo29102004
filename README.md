@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Daniel Villegas 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Entusiasta+del+Open+Source;Aprendiz+constante" alt="Typing SVG" />
@@ -6,15 +6,20 @@
 
 ---
 
-### 👤 Sobre mí
+👤 Sobre mí
+Me apasiona construir soluciones tecnológicas completas, desde la arquitectura de la base de datos hasta la interfaz de usuario. Cuento con una sólida base técnica gracias a mi formación especializada en desarrollo:
 
-Me apasiona construir soluciones tecnológicas que resuelvan problemas reales. Actualmente estoy enfocado en mejorar mis habilidades en **[Tu Tecnología Principal]** y contribuir a proyectos innovadores.
+🎓 Titulaciones: Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-* 🔭 **Actualmente trabajando en:** [Nombre de tu proyecto principal]
-* 🌱 **Aprendiendo:** [Tecnología que estés estudiando ahora]
-* 💬 **Pregúntame sobre:** Javascript, React, Python o lo que necesites.
-* 📫 **Contacto:** [Tu Email o Link a LinkedIn]
+🚀 Especialización: Dominio de lenguajes como Java, Python y JavaScript, con experiencia en gestión de bases de datos SQL.
 
+🔭 Actualmente trabajando en: Un sistema integral que combina mis conocimientos de DAW y DAM.
+
+🌱 Aprendiendo: Perfeccionando arquitecturas en la nube y microservicios.
+
+💬 Pregúntame sobre: Desarrollo Full-Stack, Java, Python o diseño de bases de datos.
+
+📫 Contacto: danilo29102004@gmail.com
 ---
 
 ### 🛠️ Tecnologías y Herramientas

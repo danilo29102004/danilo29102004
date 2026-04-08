@@ -38,12 +38,12 @@ Me apasiona construir soluciones tecnológicas completas, desde la arquitectura 
 ### 📊 Estadísticas de GitHub (Lo más técnico)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[danilo29102004]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[danilo29102004]&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_AQUÍ]&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[danilo29102004]&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
